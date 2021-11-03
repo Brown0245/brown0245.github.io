@@ -5,4 +5,7 @@ body {
     padding-top:10em;
   }
   
-  
+  h1 {
+    font-weight: 200;
+    margin: 0.4em 0;
+  }
