@@ -37,7 +37,7 @@ var TxtRotate = function(el, toRotate, period) {
   
     setTimeout(function() {
       that.tick();
-    }, delta);
+    }, 1);
   };
   
   window.onload = function() {
